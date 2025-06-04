@@ -1,0 +1,23 @@
+/* --- Begin retro styles --- */
+
+body {
+  background-color: #e6f2ff;
+  font-family: 'Courier New', monospace;
+  background-image: url('https://www.transparenttextures.com/patterns/white-wall-3.png');
+}
+
+a {
+  color: #003399;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: #ffffcc;
+  color: #cc0000;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted #aaa;
+  margin: 1.5em 0;
+}
