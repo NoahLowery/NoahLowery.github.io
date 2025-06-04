@@ -4,3 +4,9 @@
 
 layout: home
 ---
+# Hi, I'm Noah Lowery
+Welcome to my academic and professional website.
+
+📄 [Download my Résumé](Lowery_Noah.Resume.pdf)
+
+📂 [View Research Posters](posters/)
