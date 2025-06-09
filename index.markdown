@@ -3,7 +3,7 @@ layout: default
 title: Noah Lowery
 ---
 
-<div style="display: flex; gap: 2em; align-items: flex-start; max-width: 900px; margin: auto; background: #fdf6e3; border-radius: 12px; padding: 2em; box-shadow: 0 0 12px rgba(0,0,0,0.1);">
+<div style="display: flex; gap: 2em; align-items: flex-start; max-width: 900px; margin: auto; background: #fff9e6; border-radius: 12px; padding: 2em; box-shadow: 0 0 12px rgba(0,0,0,0.1);">
 
   <!-- Main content: bio + links -->
   <div style="flex: 1; font-family: 'Courier New', monospace;">
@@ -26,10 +26,10 @@ title: Noah Lowery
   </div>
 
   <!-- Sidebar: your photo -->
-  <div style="flex: 0 0 200px;">
-    <img src="/assets/images/me.jpg" alt="Photo of Noah Lowery"
-         style="width: 100%; border-radius: 8px; border: 2px solid #888;">
-  </div>
+<div style="flex: none;">
+  <img src="/assets/images/me.jpg" alt="Photo of Noah Lowery"
+       style="height: 100%; max-height: 500px; width: auto; border-radius: 8px; border: 2px solid #888;">
+</div>
 
 </div>
 
