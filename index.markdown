@@ -3,31 +3,34 @@ layout: default
 title: Noah Lowery
 ---
 
-<div style="max-width: 800px; margin: auto; font-family: 'Courier New', monospace; background-color: #fefefe; padding: 2em; border: 2px dashed #888;">
+<div style="display: flex; gap: 2em; align-items: flex-start; max-width: 900px; margin: auto;">
 
+  <!-- Sidebar: your photo -->
+  <div style="flex: 0 0 200px;">
+    <img src="/assets/images/me.jpg" alt="Photo of Noah Lowery"
+         style="width: 100%; border-radius: 8px; border: 2px solid #888;">
+  </div>
 
-<img src="/assets/images/me.jpg" alt="Photo of Me" style="max-width: 200px; border-radius: 10px; display: block; margin: auto;">
+  <!-- Main content: bio + links -->
+  <div style="flex: 1; font-family: 'Courier New', monospace;">
+    <h1 style="color: #004488;">Noah Lowery</h1>
+    <p>
+      I’m a recent mathematics graduate pursuing a career in finance or actuarial mathematics. This site hosts my résumé and academic work.
+    </p>
 
-<h1 style="text-align: center; color: #004488;">Welcome to My Website</h1>
+    <h2>📄 Résumé</h2>
+    <p><a href="resume.pdf"><b>📥 View my résumé (PDF)</b></a></p>
 
-<p style="text-align: center;"><i>I’m a recent mathematics graduate pursuing a career in finance or actuarial mathematics. This site serves as a portfolio for my résumé and academic research posters.</i></p>
+    <h2>📊 Research Posters</h2>
+    <p><a href="posters/"><b>📂 Explore my research posters</b></a></p>
 
-<hr>
-
-<h2>📄 Résumé</h2>
-<p><a href="resume.pdf"><b>📥 Click here to view my résumé (PDF)</b></a></p>
-
-<h2>📊 Research Posters</h2>
-<p><a href="posters/"><b>📂 Explore my research posters</b></a></p>
-
-<h2>🔗 Contact</h2>
-<ul>
-  <li>Email: <a href="mailto:lowerynoah@ymail.com">lowerynoah@ymail.com</a></li>
-  <li>HandShake: <a href="https://handshake.com/profiles/NoahLowery">https://csusm.joinhandshake.com/profiles/f2pzdv</a></li>
-</ul>
-
-<hr>
-
-<p style="text-align: center; font-size: 0.8em;">© 2025 Noah Lowery | Hosted on GitHub Pages</p>
+    <h2>🔗 Contact</h2>
+    <ul>
+      <li>Email: <a href="mailto:noahlowery2000@gmail.com">noahlowery2000@gmail.com</a></li>
+      <li>Handshake: <a href="https://csum.joinhandshake.com/profiles/f2pzdv">csum.joinhandshake.com/profiles/f2pzdv</a></li>
+    </ul>
+  </div>
 
 </div>
+
+<p style="text-align: center; font-size: 0.8em;">© 2025 Noah Lowery | Hosted on GitHub Pages</p>
