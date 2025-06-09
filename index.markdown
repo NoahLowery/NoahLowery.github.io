@@ -20,7 +20,7 @@ title: Noah Lowery
 
     <h2>🔗 Contact</h2>
     <ul>
-      <li>Email: <a href="mailto:noahlowery2000@gmail.com">noahlowery2000@gmail.com</a></li>
+      <li>Email: <a href="mailto:lowerynoah@ymail.com">lowerynoah@ymail.com</a></li>
       <li>Handshake: <a href="https://csum.joinhandshake.com/profiles/f2pzdv">csum.joinhandshake.com/profiles/f2pzdv</a></li>
     </ul>
   </div>
