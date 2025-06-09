@@ -20,7 +20,7 @@ title: Noah Lowery
 <h2>📊 Research Posters</h2>
 <p><a href="posters/"><b>📂 Explore my research posters</b></a></p>
 
-h2>🔗 Contact</h2>
+<h2>🔗 Contact</h2>
 <ul>
   <li>Email: <a href="mailto:lowerynoah@ymail.com">lowerynoah@ymail.com</a></li>
   <li>HandShake: <a href="https://handshake.com/profiles/NoahLowery">https://csusm.joinhandshake.com/profiles/f2pzdv</a></li>
