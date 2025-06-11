@@ -21,7 +21,7 @@ title: Noah Lowery
     <h2>🔗 Contact</h2>
     <ul>
       <li>Email: <a href="mailto:lowerynoah@ymail.com">lowerynoah@ymail.com</a></li>
-      <li>Handshake: <a href="https://csum.joinhandshake.com/profiles/f2pzdv">csum.joinhandshake.com/profiles/f2pzdv</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/noahlowery0911/">linkedin.com/in/noahlowery0911</a></li>
     </ul>
   </div>
 
