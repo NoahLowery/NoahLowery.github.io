@@ -12,13 +12,16 @@ title: Noah Lowery
       I’m a recent mathematics graduate pursuing a career in finance or actuarial mathematics. This site hosts my résumé and academic work.
     </p>
 
-    <h2>📄 Résumé</h2>
-    <p><a href="resume.pdf"><b>📥 View my résumé (PDF)</b></a></p>
+    <h2> Résumé</h2>
+    <p><a href="resume.pdf"><b> View my résumé (PDF)</b></a></p>
 
-    <h2>📊 Research Posters</h2>
-    <p><a href="posters/"><b>📂 Explore my research posters</b></a></p>
+    <h2> Research Posters</h2>
+    <p><a href="posters/"><b> Explore my research posters</b></a></p>
 
-    <h2>🔗 Contact</h2>
+    <h2> Tutoring</h2>
+    <p><a href="tutoring/"><b> Looking for in-person or online tutoring?</b></a></p>
+
+    <h2> Contact</h2>
     <ul>
       <li>Email: <a href="mailto:lowerynoah@ymail.com">lowerynoah@ymail.com</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/noahlowery0911/">linkedin.com/in/noahlowery0911</a></li>

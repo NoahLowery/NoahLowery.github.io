@@ -1,3 +1,7 @@
+---
+layout: default
+title: Tutoring
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>

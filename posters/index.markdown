@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <a href="/" style="font-size: 1.1em;">🏠 Home</a>
+  <a href="/" style="font-size: 1.1em;"> Home</a>
 </p>
 
 <h2 style="text-align: center;">Explore My Research Posters</h2>
@@ -16,7 +16,7 @@
       Through CSUSM's Summer Scholars program under Dr. Smith, I was part of a research group exploring a novel way to classify extensions of the rational numbers.
       This was my first experience with SAGE Math, which we used to find and classify cube-free integers.
     </p>
-    <p><a href="Integral_Basis_for_Radical_Cubic_Extensions_Poster-2.pdf"><b>📄 View PDF</b></a></p>
+    <p><a href="Integral_Basis_for_Radical_Cubic_Extensions_Poster-2.pdf"><b> View PDF</b></a></p>
   </div>
 
   <!-- Poster 2 -->
@@ -29,7 +29,7 @@
       Under the supervision of Dr. Jinn and as part of our senior project, my group and I used Brownian motion to study theoretical cashout distributions.
       We simulated and identified real stocks whose behavior matched our models, providing a likelihood distribution for gains or losses.
     </p>
-    <p><a href="Utility_Theory_Poster-6.pdf"><b>📄 View PDF</b></a></p>
+    <p><a href="Utility_Theory_Poster-6.pdf"><b> View PDF</b></a></p>
   </div>
 
 </div>
