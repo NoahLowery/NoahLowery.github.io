@@ -2,6 +2,18 @@
 layout: default
 title: Tutoring
 ---
+<!-- Home Button -->
+<a href="https://noahlowery.github.io/" style="
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-bottom: 20px;
+">Home</a>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
