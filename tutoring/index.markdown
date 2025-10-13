@@ -79,18 +79,17 @@ title: Tutoring
     <p>A brief meeting that provides an opportunity to meet your tutor and discuss your specific tutoring needs.</p>
   </div>
 
-  <!-- Get in Touch box -->
   <div class="highlight-box">
-    <h2>GET IN TOUCH</h2>
-    <p>Questions, comments, or requests? Feel free to reach out below.</p>
-  </div>
+  <h2>FIRST GET IN TOUCH</h2>
+  <p>Have questions about tutoring, scheduling, or pricing? Please reach out here first. I'll respond promptly to discuss your needs and determine if my services are a good fit.</p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeKnlOT0q3Te0em-BUZvNtBcjaFDKxuIcRf6CncpnpstJGGJg/viewform?usp=dialog" target="_blank" style="color:#0077cc;font-weight:bold;">Contact me →</a></p>
+</div>
 
-  <!-- Google Form Survey box -->
   <div class="highlight-box">
-    <h2>TUTORING SURVEY</h2>
-    <p>If you wish to receive tutoring services, please complete this brief survey so I can best tailor our sessions:</p>
-    <p><a href="https://forms.gle/your-google-form-link" target="_blank" style="color:#0077cc;font-weight:bold;">Preliminary Tutoring Survey →</a></p>
-  </div>
+  <h2>SECOND TUTORING SURVEY</h2>
+  <p>Once we've <strong>confirmed that tutoring is a good fit</strong>, please complete this brief survey. Your responses help me tailor our sessions to your child's grade, subjects, and preferred communication methods.</p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScnhC6SYvOuzesprQA51qgRELRSmEWO4AFV-yn3M5zb0_UCGA/viewform?usp=header" target="_blank" style="color:#0077cc;font-weight:bold;">Preliminary Tutoring Survey →</a></p>
+</div>
 
 </div>
 
